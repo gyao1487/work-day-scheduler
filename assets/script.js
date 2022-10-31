@@ -13,14 +13,14 @@ let currentHour = moment().hours();
 
 
 //Change color depending on current time
-Array.from(colorcode).forEach(element => {
+Array.from(colorcode).forEach(colorcode => {
     let colorcodeHour = parseInt(colorcode.id);
     if (currentHour === colorcodeHour) {
         colorcode.setAttribute('class','present')
         } else if (currentHour > colorcodeHour) {
-        colorcode.setAttribute('class','future') //This is supposed to turn the textarea green as a test (since it is past 5pm rn)
+        colorcode.setAttribute('class','past') //This is supposed to turn the textarea green as a test (since it is past 5pm rn)
         } else if (currentHour < colorcodeHour) {
-        colorcodedDiv.setAttribute('class','future')
+        colorcode.setAttribute('class','future')
         }
     }
 )
