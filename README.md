@@ -21,12 +21,14 @@ Features implemented on this webpage:
 
 ## Credits
 Referenced the following resources to complete this project:
-* https://stackoverflow.com/questions/3715047/how-to-reload-a-page-using-javascript
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
-* NU Coding Bootcamp Tutor, Juno Nguyen, for helping me with setting up some of the logic for functionality
-* Student support Staff, Maverick, for helping me troubleshoot a feature
-* https://www.youtube.com/watch?v=DFhmNLKwwGw&ab_channel=JamesQQuick
-* https://stackoverflow.com/questions/46141450/create-li-from-loop-through-array-and-display-to-html-as-a-list
+* https://stackoverflow.com/questions/62904905/how-do-i-color-code-time-blocks-using-js
+* https://bobbyhadz.com/blog/javascript-typeerror-foreach-is-not-a-function#:~:text=The%20%22forEach%20is%20not%20a,arrays%2C%20Map%20or%20Set%20objects.
+* https://stackoverflow.com/questions/70546999/trying-to-use-localstorage-to-store-user-inputted-text-in-textarea-but-save-and
+* https://www.folkstalk.com/tech/add-event-listener-to-multiple-buttons-with-the-same-class-with-code-examples/
+* https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event
+* https://discuss.codecademy.com/t/function-runs-before-click-event-is-fired/577290
+
+
 
 ## License
 Please refer to the LICENSE in the repo.
