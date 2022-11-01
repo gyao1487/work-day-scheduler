@@ -20,7 +20,6 @@ textarea{
   border-radius: 0;
 }
 
-
 .description{
   white-space: pre-wrap;
 }
@@ -33,7 +32,7 @@ textarea{
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;;
+  border-top: 1px solid white;
 }
 
 .hour {
