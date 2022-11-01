@@ -7,7 +7,7 @@ In this project, I utilized moment.js, Bootstrap, saving and retrieving key/valu
 
 ## Installation
 
-You can open the webpage in your web browser using this URL: 
+You can open the webpage in your web browser using this URL: https://gyao1487.github.io/work-day-scheduler/
 
 ## Usage
 Features implemented on this webpage:
